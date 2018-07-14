@@ -1,6 +1,6 @@
 # age-estimation
 Age estimation with PyTorch  
-Age estimation is performed training a fully-connected network with 5000 sample face images.
+A fully-connected network is trained with 5000 sample face images to perform age estimation.
 
 ## Usage  
 $**python3**  age_est.py  input-image-path  
