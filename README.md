@@ -9,7 +9,7 @@ $**python3**  -W  ignore  age_est.py  input-image-path  *(**-W ignore** can be u
 ### Example  
 $**cd**  src  
 $**python3**  -W  ignore  age_est.py  ../test.jpg  
-Estimated Age : 27.7
+->Estimated Age : 27.7
   
 ![Example Image](https://github.com/cetinsamet/age-estimation/blob/master/test.jpg)  
 
