@@ -13,6 +13,6 @@ $**python3**  -W  ignore  age_est.py  ../test.jpg
   
 ![Example Image](https://github.com/cetinsamet/age-estimation/blob/master/test.jpg)  
 
-*A photo taken after France won the 1998 FIFA World Cup.*  
+*Photo taken after France won the 1998 FIFA World Cup.*  
 *26-year-old Zidane is posing with the Cup.*  
 *Age estimation of the model is 27.7*
