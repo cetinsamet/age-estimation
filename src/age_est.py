@@ -37,7 +37,7 @@ def main(argv):
 
     model = get_model()
     estimated_age = model(Variable(torch.from_numpy(image_feats).float()))
-    print("Estimated Age : %2f" % estimated_age.data.cpu().numpy()[0][0])
+    print("Estimated Age : %.1f" % estimated_age.data.cpu().numpy()[0][0])
     return
 
 if __name__ == '__main__':
